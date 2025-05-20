@@ -1,47 +1,47 @@
 let img
 // Loading my images in.
 function preload() {
-  img = loadImage('/assets/deqtypeweb.jpg');
-  img1 = loadImage('/assets/medtempweb1.jpg');
-  img2 = loadImage('/assets/medtempweb2.jpg');
-  img3 = loadImage('/assets/medtempweb3.jpg');
-  img4 = loadImage('/assets/medtempweb4.jpg');
-  img5 = loadImage('/assets/medtempweb5.jpg');
-  img6 = loadImage('/assets/medtempweb6.jpg');
-  img7 = loadImage('/assets/medtempweb7.jpg');
-  img8 = loadImage('/assets/medtempweb8.jpg');
-  img9 = loadImage('/assets/medtempweb9.jpg');
-  img10 = loadImage('/assets/medtempweb10.jpg');
-  img11 = loadImage('/assets/medtempweb11.jpg');
-  img12 = loadImage('/assets/medtempweb12.jpg'); 
-  img13 = loadImage('/assets/medtempweb13.jpg');
+  img = loadImage('assets/deqtypeweb.jpg');
+  img1 = loadImage('assets/medtempweb1.jpg');
+  img2 = loadImage('assets/medtempweb2.jpg');
+  img3 = loadImage('assets/medtempweb3.jpg');
+  img4 = loadImage('assets/medtempweb4.jpg');
+  img5 = loadImage('assets/medtempweb5.jpg');
+  img6 = loadImage('assets/medtempweb6.jpg');
+  img7 = loadImage('assets/medtempweb7.jpg');
+  img8 = loadImage('assets/medtempweb8.jpg');
+  img9 = loadImage('assets/medtempweb9.jpg');
+  img10 = loadImage('assets/medtempweb10.jpg');
+  img11 = loadImage('assets/medtempweb11.jpg');
+  img12 = loadImage('assets/medtempweb12.jpg'); 
+  img13 = loadImage('assets/medtempweb13.jpg');
 
-  img14 = loadImage('/assets/largetempweb1.jpg');
-  img15 = loadImage('/assets/largetempweb2.jpg');
-  img16 = loadImage('/assets/largetempweb3.jpg');
-  img17 = loadImage('/assets/largetempweb4.jpg');
+  img14 = loadImage('assets/largetempweb1.jpg');
+  img15 = loadImage('assets/largetempweb2.jpg');
+  img16 = loadImage('assets/largetempweb3.jpg');
+  img17 = loadImage('assets/largetempweb4.jpg');
 
-  img18 = loadImage('/assets/smalltempweb1.jpg');
-  img19 = loadImage('/assets/smalltempweb2.jpg');
-  img20 = loadImage('/assets/smalltempweb3.jpg');
-  img21 = loadImage('/assets/smalltempweb4.jpg');
-  img22 = loadImage('/assets/smalltempweb5.jpg');
-  img23 = loadImage('/assets/smalltempweb6.jpg');
-  img24 = loadImage('/assets/smalltempweb7.jpg');
-  img25 = loadImage('/assets/smalltempweb8.jpg');
-  img26 = loadImage('/assets/smalltempweb9.jpg');
-  img27 = loadImage('/assets/smalltempweb10.jpg');
-  img28 = loadImage('/assets/smalltempweb11.jpg');
+  img18 = loadImage('assets/smalltempweb1.jpg');
+  img19 = loadImage('assets/smalltempweb2.jpg');
+  img20 = loadImage('assets/smalltempweb3.jpg');
+  img21 = loadImage('assets/smalltempweb4.jpg');
+  img22 = loadImage('assets/smalltempweb5.jpg');
+  img23 = loadImage('assets/smalltempweb6.jpg');
+  img24 = loadImage('assets/smalltempweb7.jpg');
+  img25 = loadImage('assets/smalltempweb8.jpg');
+  img26 = loadImage('assets/smalltempweb9.jpg');
+  img27 = loadImage('assets/smalltempweb10.jpg');
+  img28 = loadImage('assets/smalltempweb11.jpg');
 
-  gif1 = loadImage('/assets/back.gif');
-  gif2 = loadImage('/assets/groundsmall.gif');
-  gif4 = loadImage('/assets/pounce.gif');
-  gif5 = loadImage('/assets/limbs.gif');
-  gif6 = loadImage('/assets/rollsmall.gif');
-  gif7 = loadImage('/assets/rolllarge.gif');
-  gif8 = loadImage('/assets/creep.gif');
-  gif9 = loadImage('/assets/crawl.gif');
-  gif10 = loadImage('/assets/laugh.gif');
+  gif1 = loadImage('assets/back.gif');
+  gif2 = loadImage('assets/groundsmall.gif');
+  gif4 = loadImage('assets/pounce.gif');
+  gif5 = loadImage('assets/limbs.gif');
+  gif6 = loadImage('assets/rollsmall.gif');
+  gif7 = loadImage('assets/rolllarge.gif');
+  gif8 = loadImage('assets/creep.gif');
+  gif9 = loadImage('assets/crawl.gif');
+  gif10 = loadImage('assets/laugh.gif');
    
 }
 
